@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Bhavay 👋
 
-<!--
-**bhavayvasudev/bhavayvasudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st year Engineering student
+Full-stack web developer  
+I try to build real-world, production-style applications (not clones)
 
-Here are some ideas to get you started:
+Tech Stack
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Deployment: Vercel
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Focus
+Building meaningful production-grade full-stack systems with strong backend logic and clean architecture.
