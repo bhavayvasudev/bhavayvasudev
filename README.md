@@ -1,7 +1,7 @@
 Hi, I'm Bhavay 👋
 
 1st year Engineering student
-Full-stack web developer  
+- Full-stack web developer  
 I try to build real-world, production-style applications (not clones)
 
 Tech Stack
