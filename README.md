@@ -155,17 +155,17 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 <div align="center">
 
 <img
-  width="58%"
+  width="60%"
   src="https://streak-stats.demolab.com?user=bhavayvasudev&theme=github-dark-blue&hide_border=true"
-  alt="Bhavay's GitHub streak"
+  alt="Bhavay Vasudev's GitHub streak"
 />
 
 <br/><br/>
 
 <img
-  width="92%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&area=false"
-  alt="Bhavay's contribution activity"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true"
+  alt="Bhavay Vasudev's contribution activity"
 />
 
 </div>
