@@ -156,7 +156,7 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 
 <img
   width="60%"
-  src="https://streak-stats.demolab.com?user=bhavayvasudev&theme=github-dark-blue&hide_border=true"
+ <img src="https://streak-stats.demolab.com/?user=bhavayvasudev&theme=dark&hide_border=false" alt="GitHub Streak" />
   alt="Bhavay Vasudev's GitHub streak"
 />
 
