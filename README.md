@@ -22,11 +22,11 @@
 
 ## PROFILE
 
-- Engineering student working across AI/ML, with a full-stack development background to match.
-- Current focus: computer vision and multimodal systems — detection, segmentation, and structured visual reasoning.
-- Regularly experiment with LLM applications, agentic workflows, and AI-assisted developer tooling.
-- Comfortable owning both the model and the product it ships inside — APIs, data layer, and UI included.
-- Prefer building complete, real-world systems over isolated notebooks or tutorial clones.
+Engineering student, mostly working in AI/ML. Computer vision is where I spend the most time right now, with LLMs and agentic workflows as an ongoing side interest. Full-stack background means I usually end up building the whole thing around a model, not just the notebook.
+
+- Vision: detection, segmentation, real-world image pipelines
+- LLMs & agents: structured outputs, tool use, small experimental workflows
+- Product side: React, Node, databases, deployment
 
 <br/>
 
@@ -34,31 +34,29 @@
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-**VISION**
-
+#### VISION
 Detection · Segmentation · Damage Analysis
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-**LANGUAGE MODELS**
-
-LLM Applications · Structured Reasoning · RAG
-
-</td>
-<td width="25%" valign="top">
-
-**AGENTS**
-
-Tool Use · Workflows · Dev Automation
+#### LANGUAGE MODELS
+LLM Applications · Structured Outputs · RAG
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**PRODUCT ENGINEERING**
+#### AGENTS
+Tool Use · Multi-step Workflows · Developer Automation
 
+</td>
+<td width="50%" valign="top">
+
+#### PRODUCT ENGINEERING
 React · APIs · Databases · Deployment
 
 </td>
@@ -158,23 +156,15 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bhavayvasudev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="bhavayvasudev's GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavayvasudev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="bhavayvasudev's most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavayvasudev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="bhavayvasudev's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavayvasudev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="bhavayvasudev's most used languages" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavayvasudev&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="bhavayvasudev's GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=bhavayvasudev&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="bhavayvasudev's GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="bhavayvasudev's contribution graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>Bhavay Vasudev · bhavayvasudev@gmail.com · <a href="https://www.linkedin.com/in/bhavay-vasudev-3a72a13a4/">LinkedIn</a></sub>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&height=300" alt="bhavayvasudev's contribution graph" />
 
 </div>
