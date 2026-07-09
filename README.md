@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhavayvasudev&label=PROFILE%20VIEWS&color=0d1117&style=flat-square" alt="Profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/bhavayvasudev/"><img src="https://img.shields.io/badge/LinkedIn-bhavay--vasudev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/bhavayvasudev/"><img src="https://img.shields.io/badge/LinkedIn-bhavayvasudev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/bhavayvasudev"><img src="https://img.shields.io/badge/GitHub-bhavayvasudev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
@@ -132,23 +132,7 @@ Processes vehicle damage images using computer vision and multimodal AI to produ
 
 **Repository:** [github.com/bhavayvasudev/ClaimSightIndia](https://github.com/bhavayvasudev/ClaimSightIndia)
 
-<br/>
 
-<details>
-<summary><b>Velocity Tours</b> — business management application for a travel operator</summary>
-<br/>
-
-Handles revenue tracking, profit calculation, GST computation, and role-based access for a real travel business, with Excel exports for service tax and payment reports.
-
-**Features:** Revenue tracking · Profit calculation · GST calculations · Role-based access · JWT authentication · Excel report generation · Service tax reports · Payment reports
-
-**Stack:** React · Node.js · Express · MongoDB · JWT
-
-**Live:** [velocity-tours-fsjn.vercel.app](https://velocity-tours-fsjn.vercel.app/)
-
-</details>
-
-<br/>
 
 ## ACTIVITY
 
