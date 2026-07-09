@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhavayvasudev&label=PROFILE%20VIEWS&color=0d1117&style=flat-square" alt="Profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/bhavay-vasudev-3a72a13a4/"><img src="https://img.shields.io/badge/LinkedIn-bhavay--vasudev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/bhavayvasudev/"><img src="https://img.shields.io/badge/LinkedIn-bhavay--vasudev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/bhavayvasudev"><img src="https://img.shields.io/badge/GitHub-bhavayvasudev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
@@ -20,44 +20,42 @@
 
 <br/>
 
-## PROFILE
+## ABOUT
 
-Engineering student, mostly working in AI/ML. Computer vision is where I spend the most time right now, with LLMs and agentic workflows as an ongoing side interest. Full-stack background means I usually end up building the whole thing around a model, not just the notebook.
-
-- Vision: detection, segmentation, real-world image pipelines
-- LLMs & agents: structured outputs, tool use, small experimental workflows
-- Product side: React, Node, databases, deployment
-
-<br/>
-
-## SYSTEMS I BUILD
+I'm an engineering student working mostly around computer vision and AI systems. I like taking models beyond notebooks by connecting them to APIs, interfaces, data pipelines, and usable products.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-#### VISION
-Detection · Segmentation · Damage Analysis
-
-</td>
-<td width="50%" valign="top">
-
-#### LANGUAGE MODELS
-LLM Applications · Structured Outputs · RAG
+**COMPUTER VISION**
+<br/>Detection
+<br/>Segmentation
+<br/>Visual analysis
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-#### AGENTS
-Tool Use · Multi-step Workflows · Developer Automation
+**LLM SYSTEMS**
+<br/>Structured outputs
+<br/>Multimodal reasoning
+<br/>RAG
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-#### PRODUCT ENGINEERING
-React · APIs · Databases · Deployment
+**AGENTIC WORKFLOWS**
+<br/>Tool use
+<br/>Multi-step workflows
+<br/>Developer tooling
+
+</td>
+<td width="25%" valign="top">
+
+**PRODUCT ENGINEERING**
+<br/>Interfaces
+<br/>APIs & data
+<br/>Deployment
 
 </td>
 </tr>
@@ -122,7 +120,7 @@ React · APIs · Databases · Deployment
 
 **AI-powered vehicle insurance claim assessment system**
 
-Processes vehicle damage images using computer vision and multimodal AI to produce structured, auditable damage assessments — built to replace manual claim review with a reproducible pipeline.
+Processes vehicle damage images using computer vision and multimodal AI to produce structured damage assessments — designed to make initial claim assessment faster, more consistent, and easier to review.
 
 <div align="center">
 
@@ -156,15 +154,11 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavayvasudev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="bhavayvasudev's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavayvasudev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="bhavayvasudev's most used languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavayvasudev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=86400" alt="bhavayvasudev's GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavayvasudev&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400" alt="bhavayvasudev's most used languages" />
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=bhavayvasudev&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="bhavayvasudev's GitHub streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&height=300" alt="bhavayvasudev's contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&area=false&custom_title=Contribution%20Activity" alt="bhavayvasudev's contribution activity graph" />
 
 </div>
