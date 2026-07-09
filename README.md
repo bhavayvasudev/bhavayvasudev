@@ -154,11 +154,18 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavayvasudev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=86400" alt="bhavayvasudev's GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavayvasudev&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400" alt="bhavayvasudev's most used languages" />
+<img
+  width="58%"
+  src="https://streak-stats.demolab.com?user=bhavayvasudev&theme=github-dark-blue&hide_border=true"
+  alt="Bhavay's GitHub streak"
+/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&area=false&custom_title=Contribution%20Activity" alt="bhavayvasudev's contribution activity graph" />
+<img
+  width="92%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true&area=false"
+  alt="Bhavay's contribution activity"
+/>
 
 </div>
