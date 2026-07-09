@@ -1,17 +1,28 @@
-Hi, I’m Bhavay 👋
+bhavayvasudev / README.md
 
+hey, i'm bhavay.
 
-- Full-stack web developer  
-- I try to build real-world, production-style applications (not clones) & contribute to open-source projects.
+i build things around computer vision, llms, and the web.
 
-Tech Stack
+currently:
+→ building ClaimSight India
+→ experimenting with vision models and agentic systems
+→ occasionally shipping full-stack products when an idea refuses to leave me alone
 
-- Frontend: React, Tailwind CSS  
-- Backend: Node.js, Express  
-- Database: MongoDB  
-- Deployment: Vercel  
-- Tools: Git, GitHub  
+$ ./featured_work.sh
 
-🎯 Current Focus  
-Building meaningful production-grade full-stack systems with strong backend logic and clean architecture.
-Contribute to beginner-friendly open-source projects, & learn about collaboration, issues, and PR reviews
+ClaimSight India
+Multimodal vehicle damage assessment using computer vision
+and structured AI reasoning.
+
+[ github ]  [ live demo ]
+
+$ ./stack.sh
+
+Python · PyTorch · YOLO · React · Node.js
+Express · MongoDB · Supabase · Git
+
+$ ./status.sh
+
+currently training models, breaking pipelines,
+and pretending the bug is a feature.
