@@ -18,50 +18,13 @@
 
 </div>
 
-<br/>
-
 ## ABOUT
 
-I'm an engineering student working mostly around computer vision and AI systems. I like taking models beyond notebooks by connecting them to APIs, interfaces, data pipelines, and usable products.
+I'm an engineering student exploring how AI models become useful, complete products.
 
-<table>
-<tr>
-<td width="25%" valign="top">
+My work currently revolves around **computer vision** — from training detection and segmentation models to building the pipelines and applications around them. Alongside that, I'm experimenting with **LLMs, multimodal systems, and agentic workflows**, while using my full-stack background to take ideas from model experiments to usable interfaces and deployed applications.
 
-**COMPUTER VISION**
-<br/>Detection
-<br/>Segmentation
-<br/>Visual analysis
-
-</td>
-<td width="25%" valign="top">
-
-**LLM SYSTEMS**
-<br/>Structured outputs
-<br/>Multimodal reasoning
-<br/>RAG
-
-</td>
-<td width="25%" valign="top">
-
-**AGENTIC WORKFLOWS**
-<br/>Tool use
-<br/>Multi-step workflows
-<br/>Developer tooling
-
-</td>
-<td width="25%" valign="top">
-
-**PRODUCT ENGINEERING**
-<br/>Interfaces
-<br/>APIs & data
-<br/>Deployment
-
-</td>
-</tr>
-</table>
-
-<br/>
+I learn by building: picking a problem, figuring out the pieces I don't know yet, and shipping something that works.
 
 ## TOOLKIT
 
