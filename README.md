@@ -154,16 +154,18 @@ Handles revenue tracking, profit calculation, GST computation, and role-based ac
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=bhavayvasudev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Bhavay Vasudev's GitHub stats" />
-&nbsp;
-<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavayvasudev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Bhavay Vasudev's most used languages" />
+<img
+  width="60%"
+  src="https://streak-stats.demolab.com/?user=bhavayvasudev&theme=dark&hide_border=false"
+  alt="Bhavay Vasudev's GitHub streak"
+/>
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=bhavayvasudev&theme=dark&hide_border=true" alt="Bhavay Vasudev's GitHub streak" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-contributor-stats.vercel.app/api?username=bhavayvasudev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Bhavay Vasudev's top contributed repositories" />
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavayvasudev&theme=github-compact&hide_border=true"
+  alt="Bhavay Vasudev's contribution graph"
+/>
 
 </div>
